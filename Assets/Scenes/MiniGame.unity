@@ -2081,7 +2081,7 @@ PrefabInstance:
     - target: {fileID: 382489737044633555, guid: 544db686db4f2074995410a7ff4906d3,
         type: 3}
       propertyPath: m_Name
-      value: Pickup (12)
+      value: Pacer
       objectReference: {fileID: 0}
     - target: {fileID: 382489737044633560, guid: 544db686db4f2074995410a7ff4906d3,
         type: 3}
